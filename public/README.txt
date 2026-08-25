@@ -1,0 +1,1 @@
+Put static assets here if needed. Uploaded portfolio media should use Supabase Storage.

@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "id": "default",
+    "name": "Prakash Sharma",
+    "headline": "Full Stack Engineer & Automation Specialist",
+    "about": "I design and build high-performance web systems.",
+    "email": "prakash@example.com",
+    "phone": "+91 98765 43210",
+    "location": "Delhi, India",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "avatar_url": null,
+    "hero_image_url": null,
+    "cv_url": null,
+    "availability": "Available for freelance",
+    "projects_count": 0,
+    "experience": "5+ Years",
+    "updated_at": "2026-08-21T15:55:58.964Z"
+  },
+  "about": {
+    "id": "default",
+    "section_label": "01 / ABOUT",
+    "main_heading": "I DON'T JUST WRITE CODE. I BUILD SOLUTIONS.",
+    "short_intro": "Focused on turning complex requirements into simple, maintainable digital products.",
+    "full_description": "I specialize in building highly optimized, clean web applications, custom API integrations, and robust workflow automation systems.",
+    "career_focus": "Developing scalable, developer-friendly backend APIs and clean, high-performance frontend interfaces.",
+    "published": true,
+    "updated_at": "2026-08-21T15:55:58.964Z"
+  },
+  "projects": [],
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "services": [],
+  "stats": [],
+  "contact_messages": [],
+  "site_settings": {
+    "id": "default",
+    "site_title": "Prakash S — Web Apps • Automation • Integrations",
+    "site_description": "Prakash S portfolio and project management website.",
+    "logo_text": "PS",
+    "footer_text": "© 2026 Prakash Sharma. All rights reserved.",
+    "contact_email": "prakash@example.com",
+    "social_links": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com"
+    },
+    "availability_status": "Active",
+    "maintenance_mode": false,
+    "updated_at": "2026-08-21T15:55:58.964Z"
+  }
+}
